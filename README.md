@@ -17,4 +17,4 @@ CREATE TABLE `tasks` (
 
 Rest of the configurations for running the project can be found in config folder of the root directory.
 
-MADE WITH LOVE BY nsharsharaju
+MADE WITH ❤️ BY nsharsharaju 🇮🇳
